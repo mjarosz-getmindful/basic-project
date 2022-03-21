@@ -1,18 +1,10 @@
+# Basic Project
 
+## Build
+npm run build
 
+## Test
+npm run test
 
-
-
-
-
-
-
-
-
-
-
-
-
-Unit Testing:
-
-https://javascript.plainenglish.io/beginners-guide-to-testing-jest-with-node-typescript-1f46a1b87dad
+## Start Server
+npm run start
